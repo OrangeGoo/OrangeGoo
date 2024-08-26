@@ -1,16 +1,16 @@
 ### <div align="center">I'm Jiacheng Gu, a Graduate Student in Computer Engineering at Columbia University </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🌱 I’m on the road to be a full-stack software developer.
+
+  
+- 🔭 My tech stack primarily consists of JavaScript/TypeScript(MERN), Java(Spring), Python(Django).
+
+  
+- ⭐️ I love crafting delightful user experience and wonderful things.
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 💼 Now, i'm actively seeking remote SDE intern positions and 2025 SDE Summer Internship opportunities.
   
 
 <br/>  
