@@ -1,4 +1,4 @@
-### <div align="center">I'm Jiacheng Gu, a graduate student in Computer Engineering at Columbia University </div>  
+### <div align="center">I'm Jiacheng Gu, a Graduate Student in Computer Engineering at Columbia University </div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
