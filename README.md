@@ -1,6 +1,6 @@
 # Jiacheng Gu 🧑🏻‍💻
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=tokyonight" alt="Top Languages"  align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=tokyonight" width="400px" alt="Top Languages"  align="right"/>
 
 🌱 I’m a graduate student in computer engineering at Columbia University and on the road to be a full-stack software developer.
 
