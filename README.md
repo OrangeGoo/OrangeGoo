@@ -1,4 +1,4 @@
-# Jiacheng Gu🧑🏻‍💻 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=OrangeGoo.OrangeGoo)
+# Jiacheng Gu 🧑🏻‍💻
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=tokyonight" alt="Top Languages"  align="right"/>
