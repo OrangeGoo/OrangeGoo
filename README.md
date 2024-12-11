@@ -1,16 +1,12 @@
 # Jiacheng Gu 🧑🏻‍💻
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=tokyonight" alt="Top Languages"  align="right"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=tokyonight" alt="Top Languages"  align="right"/>
 
 🌱 I’m a graduate student in computer engineering at columbia university and on the road to be a full-stack software developer.
 
 ⭐️ I love crafting delightful user experiences and wonderful things.
 
 💼 Now, I'm actively seeking remote SDE intern positions and 2025 SDE Summer Internship opportunities.
-
-
 
 
 **Frontend Skills**
