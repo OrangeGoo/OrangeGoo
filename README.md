@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=tokyonight" alt="Top Languages"  align="right"/>
 
-<div style="word-break: break-word;">
+<div style="word-wrap: break-word; word-break: break-word;">
   <p>🌱 I’m a graduate student in computer engineering at Columbia University and on the road to be a full-stack software developer.</p>
   <p>⭐️ I love crafting delightful user experiences and wonderful things.</p>
   <p>💼 Now, I'm actively seeking remote SDE intern positions and 2025 SDE Summer Internship opportunities.</p>
