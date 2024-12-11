@@ -86,7 +86,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=donut&theme=dracula" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=dracula" align="center" /></div>
 
 <br/>  
 
