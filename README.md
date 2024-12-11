@@ -56,6 +56,13 @@
   <img alt="RN" src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white" />
 </p>
 
+**Testing Skills**
+
+<p>
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+</p>
+
 **DevOps**
 
 <p>
