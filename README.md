@@ -34,6 +34,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express"
     src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Fastify" src="https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Hono" src="https://img.shields.io/badge/-Hono-0066FF?style=flat-square&logo=hono&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
