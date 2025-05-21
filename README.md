@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=dark" width="300" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegoo&layout=compact&theme=material-palenight" width="300" alt="Top Languages"/>
 </p>
 
